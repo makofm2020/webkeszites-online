@@ -1124,6 +1124,74 @@ section.lazy-placeholder:after {
 .cid-rZgxpsltDm .mbr-section-subtitle {
   font-style: italic;
 }
+.cid-rZk3dlA7jw {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rZk3dlA7jw .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rZk398JhOa {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #0f7699, #cc2952);
+}
+.cid-rZk398JhOa .list-group-item {
+  padding: .75rem 3.25rem;
+}
+.cid-rZk398JhOa .plan {
+  word-break: break-word;
+  position: relative;
+  max-width: 300px;
+  padding-right: 0;
+  padding-left: 0;
+  color: #767676;
+}
+.cid-rZk398JhOa .plan .list-group-item {
+  position: relative;
+  -webkit-justify-content: center;
+  justify-content: center;
+  border: 0;
+}
+.cid-rZk398JhOa .plan .list-group-item::after {
+  position: absolute;
+  bottom: 0;
+  left: 20%;
+  width: 60%;
+  height: 2px;
+  content: "";
+  background-color: #eaeaea;
+}
+.cid-rZk398JhOa .plan .list-group-item:last-child::after {
+  display: none;
+}
+.cid-rZk398JhOa .plan-header {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.cid-rZk398JhOa .plan-header,
+.cid-rZk398JhOa .plan-body {
+  background-color: #fff;
+}
+.cid-rZk398JhOa .price-figure {
+  font-weight: 700;
+  color: #232323;
+}
+.cid-rZk398JhOa .price-value {
+  font-weight: 700;
+  vertical-align: top;
+}
+@media (max-width: 550px) {
+  .cid-rZk398JhOa .price-figure {
+    font-size: 4.25rem;
+  }
+}
+.cid-rZk3fvzCES {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
 .cid-rZgxrveeFu .navbar {
   background: #ffffff;
   transition: none;
